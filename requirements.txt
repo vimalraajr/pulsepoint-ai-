@@ -1,0 +1,10 @@
+streamlit
+openai
+google-generativeai
+moviepy
+librosa
+numpy
+soundfile
+ffmpeg-python
+pydub
+torch
